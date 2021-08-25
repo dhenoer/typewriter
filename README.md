@@ -68,5 +68,7 @@ argument specified:
         q = tw.input('Tekan [Enter] untuk lagi', mode='rtl')
         if q != '':
             break
-    
-    
+
+## Video
+
+[![Video di Yutube](https://img.youtube.com/vi/XeBqGF9fL40/0.jpg)](https://www.youtube.com/watch?v=XeBqGF9fL40)
